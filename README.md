@@ -18,3 +18,4 @@ Each project in this repository includes:
 
 |  Project Title         | TinkerCAD Simulation Link            |
 |------------------------|------------------------------------|
+|  Interfacing an Ultrasonic Sensor with Arduino  | [Link](https://www.tinkercad.com/things/4Dr07c2oOgX/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits)  |
